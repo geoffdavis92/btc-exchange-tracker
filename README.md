@@ -4,4 +4,4 @@
 
 ## APIs used
 
-See [this notes page](/geoffdavis92/btc-exchange-tracker/blob/main/notes.md)
+See [this notes page](/notes.md)
