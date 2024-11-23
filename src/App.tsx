@@ -1,5 +1,3 @@
-import React from "react";
-import logo from "./logo.svg";
 import "./App.css";
 import {
   useGetBinanceRate,
@@ -26,7 +24,7 @@ function App() {
       <header style={{ backgroundColor: "#232222", padding: "1.5rem 0" }}>
         <h1 style={{ margin: 0 }}>
           <i style={{ color: "white" }}>
-            Exchange<span style={{ color: "#00AC4E" }}>Watch</span>
+            CoinExchange<span style={{ color: "#00AC4E" }}>Watch</span>
           </i>
         </h1>
       </header>
